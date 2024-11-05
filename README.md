@@ -28,8 +28,3 @@
 <div align="left">
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/DamianDSmythe/DamianDSmythe/output/snake.svg" alt="Snake animation" />
-
-###
