@@ -2,8 +2,8 @@
 #include <malloc.h>
 #include <stdlib.h>
 #include <time.h>
+//This muste be here :(
 #include "board.h"
-
 
 static inline void add_if_legal_advance(board_t board, location pawn, location pawns, location all_pieces, board_t* move_list, int* idx) {
     if (!(pawn & all_pieces)) {
